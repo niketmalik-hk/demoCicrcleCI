@@ -9,6 +9,7 @@
     },
     "scripts": {
         "start": "node ./app.js"
+        "test": "echo 1111"
     },
     "dependencies": {
         "express": "~3.4.7",
